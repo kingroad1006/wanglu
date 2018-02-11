@@ -2,7 +2,7 @@
 	phpinfo();
 	function aa()
 	{
-		echo "aa";
+		echo "aabbbbbb";
 	}	
 		
 
